@@ -56,10 +56,10 @@ The goal was to use SQL for data exploration, transformation, and analysis, then
 ## Project Workflow
 
 Raw Customer Data  
-→ SQL Exploration & Transformation  
-→ Analytical Tables  
-→ Power BI Dashboard  
-→ Business Insights
+- SQL Exploration & Transformation  
+- Analytical Tables  
+- Power BI Dashboard  
+- Business Insights
 
 ---
 
